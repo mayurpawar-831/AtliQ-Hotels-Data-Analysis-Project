@@ -7,6 +7,10 @@
 - **Tools Used**: The project uses Python for data analysis, primarily leveraging libraries such as Pandas and Matplotlib for data manipulation and visualization.
 - **Output**: The project aims to generate actionable insights that can help improve booking strategies and enhance customer satisfaction.
 
+## Live Dashboard
+
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiNjY3MjUzZTEtYzc3OS00OGIxLTlmOTUtNWYyNzI5MTUxMTdjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+
 ## Concepts Used
 
 1. **Data Cleaning and Preprocessing**: Techniques to handle missing values, outliers, and data type conversions to prepare the dataset for analysis.
