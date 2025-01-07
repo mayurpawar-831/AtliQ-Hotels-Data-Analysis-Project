@@ -1,4 +1,4 @@
-# AtliQ-Hotels-Data-Analysis-Project
+# AtliQ Grands Hospitality Analysis
 
 ## Project Details
 
